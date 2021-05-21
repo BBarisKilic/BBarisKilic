@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=BBarisKilic&theme=tokyonight" height = 170></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=BBarisKilic&theme=tokyonight" height = 180></p>
 
 
 | **Language** | **About Me** |
@@ -8,7 +8,7 @@
 | <img src='images/de.png' alt='linkedin' width='96'>  | Hallo, ich heiße Bülent Baris Kilic. Ich bin nicht nur Zahnarzt, sondern auch Softwareentwickler. Seit 2017 entwickle ich mobile Anwendungen. Ich begann mit der [Android-Entwicklung](https://developer.android.com/) und dann lernte über [Flutter](https://flutter.dev/). Dank dessen entwickelte ich Anwendungen für beide mobilen Plattformen. Heutzutage lerne ich über [iOS und Swift](https://developer.apple.com/swift/). |
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=BBarisKilic&theme=tokyonight&show_icons=true&count_private=true&disable_animations" height = 170> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBarisKilic&theme=tokyonight&layout=compact&langs_count=8&hide=C,CMake,Makefile" height = 170></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=BBarisKilic&theme=tokyonight&show_icons=true&count_private=true&disable_animations" height = 180> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBarisKilic&theme=tokyonight&layout=compact&langs_count=8&hide=C,CMake,Makefile" height = 180></p>
 
 
 **<p align="center" style='color:#38BDAE'>My Public Repositories and Published Applications</p>**
