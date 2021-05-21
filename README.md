@@ -2,9 +2,9 @@
 
 | Languages | About Me |
 | -------------: | :------------- |
-| <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>  | Hello, my name is Bulent Baris Kilic. I am not only a dentist but also a software developer and since 2017 developing mobile applications. I started with Android Development yet as soon as realizing the power of Flutter, started to work on it. Nowadays, I am learning about iOS and Swift. |
-| <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>  | Merhaba, ben Bülent Barış Kılıç. Diş hekimiyim ve aynı zamanda 2017 yılından beri mobil uygulamalar geliştiriyorum. Başlangıçta sadece Android için uygulamalar geliştirdim fakat sonrasında Flutter üzerinde çalışmaya başladım ve bu sayede her iki mobil platforma da uygulamalar geliştiriyorum. Bugünlerde ise Swift ile iOS'a uygulama geliştirme üzerine çalışıyorum. |
-| <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>  | Hallo, ich heiße Bülent Baris Kilic. Ich bin nicht nur Zahnarzt, sondern auch Softwareentwickler. Seit 2017 entwickle ich mobile Anwendungen. Ich begann mit der Android-Entwicklung und dann lernte über Flutter. Dank dessen entwickelte ich Anwendungen für beide mobilen Plattformen. Heutzutage lerne ich über iOS und Swift. |
+| <img src='images/en.png' alt='linkedin' height='72'>  | Hello, my name is Bulent Baris Kilic. I am not only a dentist but also a software developer and since 2017 developing mobile applications. I started with Android Development yet as soon as realizing the power of Flutter, started to work on it. Nowadays, I am learning about iOS and Swift. |
+| <img src='images/tr.png' alt='linkedin' height='72'>  | Merhaba, ben Bülent Barış Kılıç. Diş hekimiyim ve aynı zamanda 2017 yılından beri mobil uygulamalar geliştiriyorum. Başlangıçta sadece Android için uygulamalar geliştirdim fakat sonrasında Flutter üzerinde çalışmaya başladım ve bu sayede her iki mobil platforma da uygulamalar geliştiriyorum. Bugünlerde ise Swift ile iOS'a uygulama geliştirme üzerine çalışıyorum. |
+| <img src='images/de.png' alt='linkedin' height='72'>  | Hallo, ich heiße Bülent Baris Kilic. Ich bin nicht nur Zahnarzt, sondern auch Softwareentwickler. Seit 2017 entwickle ich mobile Anwendungen. Ich begann mit der Android-Entwicklung und dann lernte über Flutter. Dank dessen entwickelte ich Anwendungen für beide mobilen Plattformen. Heutzutage lerne ich über iOS und Swift. |
 
 &nbsp;
 
