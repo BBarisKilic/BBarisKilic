@@ -11,10 +11,10 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=BBarisKilic&theme=tokyonight&show_icons=true&count_private=true&disable_animations" height = 180> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBarisKilic&theme=tokyonight&layout=compact&langs_count=8&hide=C,CMake,Makefile" height = 180></p>
 
 
-**<p align="center" style='color:#38BDAE'>My Public Repositories and Published Applications</p>**
+**<p align="center" style='color:#38BDAE'>See my cool projects <img src='images/cool.gif' alt='github' height='48'> </p>**
 
 [<p align="center" > <img src='images/github.svg' alt='github' height='40'>](https://github.com/BBarisKilic) &nbsp; &nbsp; [<img src='images/gplay.svg' height='40'>](https://play.google.com/store/apps/dev?id=6196030909266635434)</p>
 
-**<p align="center" style='color:#38BDAE'>Connect with Me</p>**
+**<p align="center" style='color:#38BDAE'>Connect with me <img src='images/friend.gif' alt='github' height='48'> </p>**
 
  [<p align="center"><img src='images/linkedin.svg' alt='linkedin' height='40'></p>](https://www.linkedin.com/in/bbariskilic/)
