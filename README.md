@@ -17,4 +17,4 @@
 
 **<p align="center" style='color:#38BDAE'>Connect with me <img src='images/friend.gif' alt='github' height='48'> </p>**
 
- [<p align="center"><img src='images/linkedin.svg' alt='linkedin' height='40'></p>](https://www.linkedin.com/in/bbariskilic/)
+ [<p align="center"><img src='images/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bbariskilic/) &nbsp; &nbsp; [<img src='images/xing.svg' height='40'>](https://www.xing.com/profile/BulentBaris_Kilic/cv)</p>
