@@ -16,7 +16,7 @@
 
 **<p align="center">See my cool projects <img src='images/cool.gif' alt='github' height='48'> </p>**
 
-[<p align="center" > <img src='images/github.svg' alt='github' height='40'>](https://github.com/BBK-Development) &nbsp; &nbsp; [<img src='images/playstore.svg' height='40'>](https://play.google.com/store/apps/dev?id=6196030909266635434) &nbsp; &nbsp; [<img src='images/appgallery.svg' height='40'>](https://play.google.com/store/apps/dev?id=6196030909266635434)</p>
+[<p align="center" > <img src='images/github.svg' alt='github' height='40'>](https://github.com/BBK-Development) &nbsp; &nbsp; [<img src='images/playstore.svg' height='40'>](https://play.google.com/store/apps/dev?id=6196030909266635434) &nbsp; &nbsp; [<img src='images/appgallery.svg' height='40'>](https://appgallery.huawei.com/#/app/C104396175)</p>
 
 &nbsp;
 
