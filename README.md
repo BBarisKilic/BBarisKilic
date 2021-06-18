@@ -22,4 +22,4 @@
 
 **<p align="center">Contact me <img src='images/friend.gif' alt='github' height='48'> </p>**
 
- [<p align="center"><img src='images/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bbariskilic/) &nbsp; &nbsp; [<img src='images/xing.svg' height='40'>](https://www.xing.com/profile/BulentBaris_Kilic/cv) &nbsp; &nbsp; [<img src='images/mail.svg' height='40'>](mailto:bulentbariskilic@gmail.com)</p>
+ [<p align="center"><img src='images/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bbariskilic/) &nbsp; &nbsp; [<img src='images/xing.svg' height='40'>](https://www.xing.com/profile/BulentBaris_Kilic/cv) &nbsp; &nbsp; [<img src='images/dc.svg' height='40'>](https://discordapp.com/users/276698800129703936) &nbsp; &nbsp; [<img src='images/mail.svg' height='40'>](mailto:bulentbariskilic@gmail.com)</p>
