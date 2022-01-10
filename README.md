@@ -10,11 +10,7 @@
 
 &nbsp;
 
-<p style="text-align:left;">
-<img src="https://github-readme-stats.vercel.app/api?username=BBarisKilic&theme=tokyonight&include_all_commits=true&show_icons=true&count_private=true&disable_animations" height = 180> 
-<span style="float:right;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBarisKilic&theme=tokyonight&layout=compact&langs_count=8&hide=C,CMake,Makefile" height = 180>
-</span>
-</p>
+<span class="left"><img src="https://github-readme-stats.vercel.app/api?username=BBarisKilic&theme=tokyonight&include_all_commits=true&show_icons=true&count_private=true&disable_animations" height = 180></span><span class="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBarisKilic&theme=tokyonight&layout=compact&langs_count=8&hide=C,CMake,Makefile" height = 180></span>
 
 &nbsp;
 
