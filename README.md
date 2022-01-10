@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=BBarisKilic&theme=tokyonight" height = 180></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=BBarisKilic&theme=tokyonight" height = 215></p>
 
 &nbsp;
 
@@ -10,7 +10,7 @@
 
 &nbsp;
 
-<span class="left"><img src="https://github-readme-stats.vercel.app/api?username=BBarisKilic&theme=tokyonight&include_all_commits=true&show_icons=true&count_private=true&disable_animations" height = 180></span><span class="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBarisKilic&theme=tokyonight&layout=compact&langs_count=8&hide=C,CMake,Makefile" height = 180></span>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=BBarisKilic&theme=tokyonight&include_all_commits=true&show_icons=true&count_private=true&disable_animations" height = 215> &emsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBarisKilic&theme=tokyonight&layout=compact&langs_count=8&hide=C,CMake,Makefile" height = 215></p>
 
 &nbsp;
 
