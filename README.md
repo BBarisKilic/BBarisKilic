@@ -2,7 +2,7 @@
 
 &nbsp;
 
-### **<p align="center">About <img src='images/spongebob.gif' alt='github' height='48'> </p>**
+### **<p align="center">About <img src='images/spongebob.gif' alt='Gif' height='48'> </p>**
 
 <div align="center">
 
@@ -20,18 +20,18 @@ Hello, my name is Bulent Baris Kilic. I am not only a dentist but also a softwar
 
 &nbsp;
 
-### **<p align="center">Stats <img src='images/mr_krabs.gif' alt='github' height='48'> </p>**
+### **<p align="center">Stats <img src='images/mr_krabs.gif' alt='Gif' height='48'> </p>**
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=BBarisKilic&theme=tokyonight&include_all_commits=false&show_icons=true&count_private=true&disable_animations" height = 190> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBarisKilic&theme=tokyonight&layout=compact&langs_count=8&hide=C,CMake,Makefile" height = 190></p>
 
 &nbsp;
 
-### **<p align="center">Product<img src='images/patrick.gif' alt='github' height='48'> </p>**
+### **<p align="center">Product<img src='images/patrick.gif' alt='Gif' height='48'> </p>**
 
-[<p align="center" > <img src='images/github.svg' alt='github' height='40'>](https://github.com/BBK-Development) &nbsp; &nbsp; [<img src='images/playstore.svg' height='40'>](https://play.google.com/store/apps/dev?id=6196030909266635434) &nbsp; &nbsp; [<img src='images/appgallery.svg' height='40'>](https://appgallery.huawei.com/#/app/C104396175)</p>
+[<p align="center" > <img src='images/bbk_development.svg' alt='BBK Development' height='40'>](https://www.bbkdevelopment.com) &nbsp; &nbsp; [<img src='images/playstore.svg' alt='PlayStore' height='40'>](https://play.google.com/store/apps/dev?id=6196030909266635434) &nbsp; &nbsp; [<img src='images/appgallery.svg' alt='AppGallery' height='40'>](https://appgallery.huawei.com/#/app/C104396175) &nbsp; &nbsp;  [<img src='images/github.svg' alt='GitHub' height='40'>](https://github.com/BBK-Development)</p>
 
 &nbsp;
 
-### **<p align="center">Contact <img src='images/squidward.gif' alt='github' height='48'> </p>**
+### **<p align="center">Contact <img src='images/squidward.gif' alt='Gif' height='48'> </p>**
 
- [<p align="center"><img src='images/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bbariskilic) &nbsp; &nbsp; [<img src='images/xing.svg' height='40'>](https://www.xing.com/profile/BulentBaris_Kilic/cv) &nbsp; &nbsp; [<img src='images/dc.svg' height='40'>](https://discordapp.com/users/276698800129703936) &nbsp; &nbsp; [<img src='images/mail.svg' height='40'>](mailto:bulent.baris@bbkdevelopment.com)</p>
+ [<p align="center"><img src='images/linkedin.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/bbariskilic) &nbsp; &nbsp; [<img src='images/xing.svg' alt='Xing' height='40'>](https://www.xing.com/profile/BulentBaris_Kilic/cv) &nbsp; &nbsp; [<img src='images/dc.svg' alt='Discord' height='40'>](https://discordapp.com/users/276698800129703936) &nbsp; &nbsp; [<img src='images/mail.svg' alt='Mail' height='40'>](mailto:bulent.baris@bbkdevelopment.com)</p>
