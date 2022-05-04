@@ -34,4 +34,4 @@ Hello, my name is Bulent Baris Kilic. I am not only a dentist but also a softwar
 
 ### **<p align="center"> <img src='images/squidward.gif' alt='Gif' height='36'> &nbsp; Contact &nbsp; <img src='images/squidward.gif' alt='Gif' height='36'> </p>**
 
- [<p align="center"> <img src='images/linkedin.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/bbariskilic) &nbsp; &nbsp; [<img src='images/xing.svg' alt='Xing' height='40'>](https://www.xing.com/profile/BulentBaris_Kilic/cv) &nbsp; &nbsp; [<img src='images/dc.svg' alt='Discord' height='40'>](https://discordapp.com/users/276698800129703936) &nbsp; &nbsp; [<img src='images/mail.svg' alt='Mail' height='40'>](mailto:bulent.baris@bbkdevelopment.com)</p>
+ [<p align="center"> <img src='images/linkedin.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/bbariskilic) &nbsp; &nbsp; [<img src='images/xing.svg' alt='Xing' height='40'>](https://www.xing.com/profile/BulentBaris_Kilic/cv) &nbsp; &nbsp; [<img src='images/dc.svg' alt='Discord' height='40'>](https://discordapp.com/users/276698800129703936) &nbsp; &nbsp; [<img src='images/mail.svg' alt='Mail' height='40'>](mailto:baris@bbkdevelopment.com)</p>
