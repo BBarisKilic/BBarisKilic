@@ -22,7 +22,7 @@ Hello, my name is Bulent Baris Kilic. I am not only a dentist but also a softwar
 
 ### **<p align="center"> <img src='images/patrick.gif' alt='Gif' height='36'> &nbsp; Stats &nbsp; <img src='images/patrick.gif' alt='Gif' height='36'> </p>**
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=BBarisKilic&theme=tokyonight&include_all_commits=false&show_icons=true&count_private=true&disable_animations" height = 190> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBarisKilic&theme=tokyonight&layout=compact&langs_count=8&hide=C,CMake,Makefile" height = 190></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=BBarisKilic&theme=tokyonight&include_all_commits=false&show_icons=true&count_private=true&disable_animations" height = 190> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBarisKilic&theme=tokyonight&layout=compact&langs_count=8&hide=C,CMake,Makefile,HTML" height = 190></p>
 
 &nbsp;
 
