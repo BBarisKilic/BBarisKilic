@@ -32,7 +32,7 @@ Hello, my name is Bulent Baris Kilic. I am not only a dentist but also a softwar
  
 [<img src="images/playstore.svg" alt="PlayStore" height="40" width="40">](https://play.google.com/store/apps/dev?id=6196030909266635434) &nbsp; &nbsp; 
 [<img src="images/appgallery.svg" alt="AppGallery" height="40" width="40">](https://appgallery.huawei.com/#/app/C104396175) &nbsp; &nbsp; 
-[<img src="images/github.svg" alt="GitHub" height="40" width="40">](https://github.com/BBK-Development) &nbsp; &nbsp; 
+[<img src="images/github.svg" alt="GitHub" height="40" width="40">](https://github.com/BBKDevelopment) &nbsp; &nbsp; 
 [<img src="images/bbk_development.svg" alt="BBK Development" height="40" width="40">](https://www.bbkdevelopment.com)
 </div>
 
