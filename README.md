@@ -1,4 +1,5 @@
-<img src="https://github-readme-stats.vercel.app/api?username=BBarisKilic&theme=tokyonight&include_all_commits=false&show_icons=true&count_private=true&disable_animations" height="190"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBarisKilic&theme=tokyonight&layout=compact&langs_count=8&hide=Objective-C,CMake,Makefile,HTML" height="190">
+![Baris's Github Stats][github_readme_stats_link]
+![Baris's Github Langs][github_readme_lang_stats_link]
 
 ### Hi there 👋
 
@@ -12,10 +13,12 @@
 - 💬 Find me on [LinkedIn][linkedin_link] or [Discord][discord_link] - I'm always up for a good coding discussion
 - ⚡ Fun fact: I can explain both root canals and root directories with equal enthusiasm!
 
-&nbsp;
+<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=BBarisKilic&theme=tokyonight" width="759">
+![Baris's Github Streaks][github_readme_streak_stats_link]
 
+[github_readme_stats_link]: https://github-readme-stats.vercel.app/api?username=BBarisKilic&theme=tokyonight&show_icons=true&line_height=24&include_all_commits=false&count_private=true
+[github_readme_lang_stats_link]: https://github-readme-stats.vercel.app/api/top-langs/?username=BBarisKilic&theme=tokyonight&layout=compact&langs_count=8&size_weight=0.7&count_weight=0.3&hide=Objective-C,CMake,Makefile,HTML
 [c_link]: https://en.wikipedia.org/wiki/C_(programming_language)
 [flutter_link]: https://flutter.dev/
 [dart_link]: https://dart.dev/
@@ -23,3 +26,4 @@
 [spring_boot_link]: https://spring.io/projects/spring-boot
 [linkedin_link]: https://www.linkedin.com/in/bbariskilic
 [discord_link]: https://discordapp.com/users/276698800129703936
+[github_readme_streak_stats_link]: https://github-readme-streak-stats.herokuapp.com?user=BBarisKilic&theme=tokyonight&card_width=770
