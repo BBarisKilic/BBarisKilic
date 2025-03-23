@@ -11,7 +11,6 @@
 - 📚 In tech, if you're not learning, you're compile-aining!
 - 🤝 Looking to collaborate on interesting open-source projects
 - 💬 Find me on [LinkedIn][linkedin_link] or [Discord][discord_link] - I'm always up for a good coding discussion
-- ⚡ Fun fact: I can explain both root canals and root directories with equal enthusiasm!
 
 <br>
 
@@ -19,7 +18,7 @@
 
 [github_readme_stats_link]: https://github-readme-stats.vercel.app/api?username=BBarisKilic&theme=tokyonight&show_icons=true&line_height=24&include_all_commits=false&count_private=true
 [github_readme_lang_stats_link]: https://github-readme-stats.vercel.app/api/top-langs/?username=BBarisKilic&theme=tokyonight&layout=compact&langs_count=8&size_weight=0.7&count_weight=0.3&hide=Objective-C,CMake,Makefile,HTML
-[c_link]: https://en.wikipedia.org/wiki/C_(programming_language)
+[c_link]: https://www.c-language.org/
 [flutter_link]: https://flutter.dev/
 [dart_link]: https://dart.dev/
 [android_link]: https://developer.android.com/
